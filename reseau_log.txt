@@ -1,0 +1,9 @@
+
+--- Test du 2026-02-15 14:51:48 ---
+    OK - google.com
+    OK - 8.8.8.8
+    OK - 1.1.1.1
+    OK - github.com
+  FAIL - 10.0.0.5
+    OK - 192.168.1.1
+  Total : 5 OK / 1 FAIL
